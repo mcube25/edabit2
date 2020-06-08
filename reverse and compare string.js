@@ -1,0 +1,1 @@
+const compare = num => Number(number.toSring().reverse().join())<=num;

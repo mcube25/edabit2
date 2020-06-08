@@ -1,0 +1,1 @@
+const mean = nums=> +(nums.reduce((n, x)=> n + x)/(nums.length)).toFixed(1);
