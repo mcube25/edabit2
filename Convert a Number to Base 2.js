@@ -1,0 +1,1 @@
+const binary = decimal => Number(decimal).toString(2)
