@@ -1,0 +1,1 @@
+const isJS = path=> path.match(/\.js$/g)||path.match(/\.jsx$/g)? true : false;
