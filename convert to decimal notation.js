@@ -1,0 +1,1 @@
+const convertToDecimal = perc=> perc.map(x=>parseFloat(x)/100);
