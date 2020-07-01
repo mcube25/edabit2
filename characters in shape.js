@@ -1,0 +1,1 @@
+const countCharacters = r => r.join('').length
