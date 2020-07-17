@@ -1,0 +1,1 @@
+const howManyStickers = n => n * n* 6;
