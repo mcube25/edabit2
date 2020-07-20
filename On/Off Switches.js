@@ -1,0 +1,1 @@
+const posCom = n => 2**n
