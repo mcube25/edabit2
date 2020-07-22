@@ -1,0 +1,1 @@
+const findBob = names => names.indexOf("Bob") ;
